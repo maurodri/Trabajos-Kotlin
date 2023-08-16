@@ -151,7 +151,7 @@ Esta es una aplicación de Android construida con Jetpack Compose que muestra un
 </p>
 
 ## Texto del enlace
-<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/BasicStateCodelab">ir a App kotlin 4</a></h2>
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/BasicStateCodelab">ir a BasicStateCodelab</a></h2>
 
 
 ## Uso
