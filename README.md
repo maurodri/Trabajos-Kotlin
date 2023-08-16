@@ -61,7 +61,7 @@ Para ejecutar este proyecto, sigue estos pasos:
 3. Ejecuta la aplicación en un emulador o dispositivo Android.
 
 ## Texto del enlace
-<a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/Kotlin1">ir a Kotlin 1</a>
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/Kotlin1">ir a Kotlin 1</a></h2>
 
 
 ## Contribuir
