@@ -23,6 +23,8 @@ import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
+
+
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
@@ -198,6 +200,28 @@ fun FavoriteCollectionsGrid(
     }
 }
 
+
+@Composable
+fun FavoriteProductsGrid(
+    modifier: Modifier = Modifier
+) {
+    // Implement composable here
+    LazyHorizontalGrid(
+        rows = GridCells.Fixed(4),
+        contentPadding = PaddingValues(horizontal = 16.dp),
+        horizontalArrangement = Arrangement.spacedBy(8.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp),
+        modifier = modifier.height(120.dp)
+    ){
+        items(favoriteProductsData){item ->
+            FavoriteCollectionCard(
+                drawable = item.drawable,
+                text = item.text,
+                modifier = Modifier.height(56.dp))
+        }
+    }
+}
+
 // Step: Home section - Slot APIs
 @Composable
 fun HomeSection(
@@ -235,6 +259,9 @@ fun HomeScreen(modifier: Modifier = Modifier) {
         }
         HomeSection(title = R.string.favorite_collections) {
             FavoriteCollectionsGrid()
+        }
+        HomeSection(title = R.string.favorite_products) {
+            FavoriteProductsGrid()
         }
         Spacer(Modifier.height(16.dp))
     }
@@ -293,23 +320,33 @@ fun MySootheApp() {
 }
 
 private val alignYourBodyData = listOf(
-    R.drawable.ab1_inversions to R.string.ab1_inversions,
-    R.drawable.ab2_quick_yoga to R.string.ab2_quick_yoga,
-    R.drawable.ab3_stretching to R.string.ab3_stretching,
-    R.drawable.ab4_tabata to R.string.ab4_tabata,
-    R.drawable.ab5_hiit to R.string.ab5_hiit,
-    R.drawable.ab6_pre_natal_yoga to R.string.ab6_pre_natal_yoga
+    R.drawable.ab1_frutas to R.string.ab1_frutas,
+    R.drawable.ab2_huevos to R.string.ab2_huevos,
+    R.drawable.ab3_verduras to R.string.ab3_verduras,
+    R.drawable.ab4_lacteos to R.string.ab4_lacteos
 ).map { DrawableStringPair(it.first, it.second) }
 
 private val favoriteCollectionsData = listOf(
-    R.drawable.fc1_short_mantras to R.string.fc1_short_mantras,
-    R.drawable.fc2_nature_meditations to R.string.fc2_nature_meditations,
-    R.drawable.fc3_stress_and_anxiety to R.string.fc3_stress_and_anxiety,
-    R.drawable.fc4_self_massage to R.string.fc4_self_massage,
-    R.drawable.fc5_overwhelmed to R.string.fc5_overwhelmed,
-    R.drawable.fc6_nightly_wind_down to R.string.fc6_nightly_wind_down
+    R.drawable.fc1_azucena to R.string.fc1_azucena,
+    R.drawable.fc2_rosas to R.string.fc2_rosas,
+    R.drawable.fc3_cactus to R.string.fc3_cactus,
+    R.drawable.fc4_huevos to R.string.fc4_huevos,
+    R.drawable.fc5_zanahoria to R.string.fc5_zanahoria,
+    R.drawable.fc6_tomate to R.string.fc6_tomate
 ).map { DrawableStringPair(it.first, it.second) }
 
+private val favoriteProductsData = listOf(
+    R.drawable.fc1_azucena to R.string.fc1_azucena,
+    R.drawable.fc2_rosas to R.string.fc2_rosas,
+    R.drawable.fc3_cactus to R.string.fc3_cactus,
+    R.drawable.fc4_huevos to R.string.fc4_huevos,
+    R.drawable.fc5_zanahoria to R.string.fc5_zanahoria,
+    R.drawable.fc6_tomate to R.string.fc6_tomate,
+    R.drawable.fc7_cebolla to R.string.fc7_cebolla,
+    R.drawable.fc8_tomate_arbol to R.string.fc8_tomate_arbol,
+    R.drawable.fc9_leche to R.string.fc9_leche,
+    R.drawable.fc10_queso to R.string.fc10_queso
+).map { DrawableStringPair(it.first, it.second) }
 private data class DrawableStringPair(
     @DrawableRes val drawable: Int,
     @StringRes val text: Int
@@ -326,8 +363,8 @@ fun SearchBarPreview() {
 fun AlignYourBodyElementPreview() {
     MySootheTheme {
         AlignYourBodyElement(
-            text = R.string.ab1_inversions,
-            drawable = R.drawable.ab1_inversions,
+            text = R.string.ab1_frutas,
+            drawable = R.drawable.ab1_frutas,
             modifier = Modifier.padding(8.dp)
         )
     }
@@ -338,8 +375,8 @@ fun AlignYourBodyElementPreview() {
 fun FavoriteCollectionCardPreview() {
     MySootheTheme {
         FavoriteCollectionCard(
-            text = R.string.fc2_nature_meditations,
-            drawable = R.drawable.fc2_nature_meditations,
+            text = R.string.fc2_rosas,
+            drawable = R.drawable.fc2_rosas,
             modifier = Modifier.padding(8.dp)
         )
     }
