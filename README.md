@@ -75,3 +75,40 @@ Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
+
+
+# Kotlin 4
+## saludos
+Este proyecto es una aplicación de Android escrita en Kotlin que muestra una pantalla de bienvenida y una lista de saludos utilizando Compose.
+
+## Características
+
+- Muestra una pantalla de bienvenida con un texto y un botón.
+- Al hacer clic en el botón, se muestra una lista de saludos.
+- Cada saludo se muestra en una tarjeta con un color primario.
+- El texto del saludo se puede expandir o contraer al hacer clic en un botón.
+- Utiliza el tema `AppKotlin4Theme` para aplicar estilos a los componentes.
+
+## Capturas de pantalla
+
+Pon aquí imágenes de la aplicación en ejecución, mostrando la pantalla de bienvenida y la lista de saludos.
+
+## Cómo ejecutar
+
+Para ejecutar este proyecto, sigue estos pasos:
+
+1. Clona este repositorio en tu máquina local.
+2. Abre el proyecto en Android Studio.
+3. Ejecuta la aplicación en un emulador o dispositivo Android.
+
+## Contribuir
+
+Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
+
+- Reportar errores o problemas.
+- Sugerir nuevas características o mejoras.
+- Enviar un pull request con cambios o mejoras.
+
+## Licencia
+
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
