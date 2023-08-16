@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Dashboard_V2</string>
+    <string name="canal_tienda">CanalTienda</string>
+    <string name="canal_notificaciones">CanaldeNotificacionesTiendaCBA</string>
+    <string name="Dahlia_title">Dahlia</string>
+    <string name="Dahlia_title2">Dahlia pinnata</string>
+    <string name="Dahlia_title3">Dahlia roja</string>
+    <string name="Dahlia_Detalles">La dalia es una planta ornamental originaria de México, que pertenece a la familia de las asteráceas. Tiene flores de diversos colores y formas, que se agrupan en cabezuelas sobre tallos erectos o rastreros. Su raíz es tuberosa y sirve para almacenar nutrientes y reproducir la planta. La dalia es la flor nacional de México y se cultiva en todo el mundo por su belleza y variedad.</string>
+    <string name="huevob">Huevo B</string>
+    <string name="Geranio">Geranio</string>
+    <string name="Geranio_detalles">Los geranios son plantas muy populares y apreciadas por sus flores de diversos colores y formas, que adornan los jardines, balcones y terrazas. Según la web de Jardinatis1, los geranios son originarios de Sudáfrica y pertenecen a la familia de las geraniáceas. Hay más de 240 variedades de geranios, entre las que destacan el geranio común, el geranio de hojas de hiedra, el geranio de pensamiento y el geranio aromático. Los geranios tienen propiedades antimosquitos, medicinales y nutritivas.</string>
+    <string name="Flor_rosa_title">Flor rosa</string>
+    <string name="Flor_rosa_detalles">Las flores rosas son muy bonitas y tienen varios significados según el tipo de flor y el tono de rosa. Por ejemplo, las rosas rosas o rosadas simbolizan la bondad, la simpatía, la gratitud y la belleza de una persona. Obsequiar una rosa rosada a una persona apreciada es un gesto de cariño, generosidad, respeto, ternura y admiración. Las rosas rosadas indican gratitud y la ausencia de malos sentimientos e intenciones.</string>
+    <string name="huevoaa">Huevo AA</string>
+    <string name="huevoaaa">Huevo AAA</string>
+    <string name="Deportes">Programa de formacion de deportes</string>
+    <string name="Agronomia">Programa de formacion agronoma de zona campestre</string>
+    <string name="Negocios">Programa de formacion para negocios</string>
+    <string name="Adso">Programa de formacion analisis y desarrollo de software la mas bonita</string>
+    <string name="Kiwi">Kiwi</string>
+    <string name="Kiwi_detalles">Los kiwis, que son unas frutas deliciosas y saludables. Los kiwis tienen una piel marrón y peluda, y una pulpa verde y jugosa con semillas negras. Son originarios de China, pero se cultivan en muchas partes del mundo</string>
+    <string name="Manzana_fresa">Manzana y Fresa</string>
+    <string name="Manzana_fresa_detalle">Las fresas y las manzanas son frutas deliciosas y saludables, que tienen muchos beneficios para nuestra salud y bienestar. Ambas frutas son ricas en vitaminas, antioxidantes, fibra y otros nutrientes que ayudan a prevenir enfermedades, mejorar la digestión, fortalecer el sistema inmunológico y proteger la salud de la piel, el cabello, los ojos y los dientes.</string>
+    <string name="Verduras">Verduras</string>
+    <string name="Verdura_detalle">Las verduras son plantas o partes de plantas que se consumen como alimento, generalmente en forma de ensalada, guarnición o acompañamiento. El color verde es el más común entre las verduras, pero también hay otras de diferentes tonos, como el rojo, el amarillo, el morado o el blanco.</string>
+    <string name="Zanahoria">Zanahoria</string>
+    <string name="Zanahoria_detalle">las zanahorias son unas hortalizas que nos aportan muchos beneficios para nuestra salud, especialmente para la vista, la piel, el aparato digestivo, el corazón y el sistema inmunológico. Además, son muy versátiles y se pueden consumir crudas, cocidas, en zumos, ensaladas, sopas o postres.</string>
+
+    <string name="huevob_detalles">El huevo es un alimento muy beneficioso para la salud y el peso normal, ya que aporta proteínas de alta calidad, vitaminas, minerales y antioxidantes. Estos nutrientes ayudan a mantener los músculos, la piel, el cabello, los huesos y el sistema inmunológico sanos. </string>
+    <string name="huevoaa_detalles">El huevo es un alimento muy beneficioso para la salud y el peso normal, ya que aporta proteínas de alta calidad, vitaminas, minerales y antioxidantes. Estos nutrientes ayudan a mantener los músculos, la piel, el cabello, los huesos y el sistema inmunológico sanos. </string>
+    <string name="huevoaaa_detalles">El huevo es un alimento muy beneficioso para la salud y el peso normal, ya que aporta proteínas de alta calidad, vitaminas, minerales y antioxidantes. Estos nutrientes ayudan a mantener los músculos, la piel, el cabello, los huesos y el sistema inmunológico sanos. </string>
+
+    <string name="yougurt">Yougurt</string>
+    <string name="yougurt_detalle">El yogurt es un alimento muy completo y saludable que se puede incluir en una dieta equilibrada y variada. Se recomienda consumir al menos un yogurt natural al día, preferiblemente sin azúcar ni aditivos. También se puede optar por el yogurt griego, que tiene más proteínas y menos lactosa que el yogurt común.</string>
+    <string name="Avena">Avena</string>
+    <string name="Avena_detalle">La avena es un cereal que se obtiene de la planta del mismo nombre, que pertenece a la familia de las gramíneas. La avena se consume principalmente por sus propiedades nutricionales, ya que es rica en proteínas, fibra, vitaminas, minerales y grasas saludables. La avena tiene muchos beneficios para la salud, como mejorar la digestión, reducir el colesterol, regular la presión arterial, fortalecer el sistema inmunológico, estimular el cerebro y prevenir enfermedades. </string>
+    <string name="batido">Batidos</string>
+    <string name="batido_detalle">Los batidos son bebidas que se elaboran a base de leche o helado, y que pueden llevar frutas, chocolate, turrón o cualquier otro ingrediente que se quiera añadir. Los batidos son una forma deliciosa y nutritiva de consumir frutas, ya que aportan vitaminas, minerales, fibra y antioxidantes</string>
+    <string name="leche">Leche</string>
+    <string name="Leche_detalle"> La leche tiene una composición variada según la especie animal, pero en general es rica en agua, proteínas, grasas, lactosa, minerales y vitaminas. La leche tiene muchos beneficios para la salud humana, ya que aporta nutrientes esenciales para el crecimiento, el desarrollo y el mantenimiento de los tejidos.</string>
+
+
+
+
+
+
+</resources>
