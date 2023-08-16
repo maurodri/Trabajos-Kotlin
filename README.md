@@ -101,6 +101,18 @@ Para ejecutar este proyecto, sigue estos pasos:
 2. Abre el proyecto en Android Studio.
 3. Ejecuta la aplicación en un emulador o dispositivo Android.
 
+
+## Capturas de pantalla
+<p align="center">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/75e76e66-89c7-4801-a7bb-272d10c977da" alt="Descripción de la imagen">
+<img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/950191dc-7c7a-4799-b18a-6063bebb55af" alt="Descripción de la imagen">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/5bc19420-adcc-4eeb-ab42-03fc77ff03b2" alt="Descripción de la imagen">
+  
+</p>
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/Appkotlin4">ir a App kotlin 4</a></h2>
+
 ## Contribuir
 
 Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
