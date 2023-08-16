@@ -297,3 +297,61 @@ Para contribuir con código, siga estos pasos:
 ## Licencia
 
 La aplicación MySoothe está licenciada bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
+
+# Tienda CBA SENA
+
+Esta es una aplicación de Android escrita en Kotlin que utiliza Compose para crear una interfaz de usuario. La aplicación es una tienda en línea para el Centro Biotecnológico Agropecuario del SENA en Colombia.
+
+## Características
+
+- Varias páginas que muestran información sobre diferentes productos, como flores, frutas, verduras, huevos y productos lácteos.
+- Una página de inicio con noticias.
+- Una página de ubicación que muestra un mapa con marcadores para diferentes ubicaciones.
+- Funcionalidad para mostrar notificaciones.
+
+## Capturas de pantalla
+
+<p align="center">
+
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/c7eadc73-b501-44cc-b257-a9a9709e843c)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/7d8e29e8-03cb-40ac-9592-f73b77fc5a07)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/857853db-8dd1-429c-8f1e-a6546d998d49)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/41bcede9-e709-4e68-94ae-138ab6ff3a25)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/234d389c-afa3-4225-8d40-bf14d42ce85f)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/d062fc0e-e735-4fbf-9879-088c2d48dba8)
+
+  
+</p>
+
+## Instalación
+
+Para instalar la aplicación, siga estos pasos:
+
+1. Descargue el archivo APK de la aplicación desde el enlace proporcionado.
+2. Abra el archivo APK en su dispositivo Android.
+3. Siga las instrucciones en pantalla para instalar la aplicación.
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/dashboard_2">ir a Tienda sena</a></h2>
+
+
+## Uso
+
+Para usar la aplicación, siga estos pasos:
+
+1. Abra la aplicación en su dispositivo Android.
+2. Navegue por las diferentes páginas utilizando el menú lateral (drawer) o la barra inferior.
+3. Seleccione los productos que desee y agréguelos a su carrito de compras.
+4. Complete el proceso de pago para realizar su compra.
+
+## Contribución
+
+Si desea contribuir al desarrollo de esta aplicación, puede hacerlo de las siguientes maneras:
+
+- Informar errores o problemas a través del sistema de seguimiento de problemas.
+- Proponer nuevas características o mejoras a través del sistema de seguimiento de problemas.
+- Contribuir con código a través de solicitudes de extracción (pull requests).
+
+## Licencia
+
+Esta aplicación está licenciada bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
