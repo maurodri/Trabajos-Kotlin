@@ -128,3 +128,37 @@ Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
+
+# Aplicación de Bienestar(BasicStateCodelab)
+
+Esta es una aplicación de Android construida con Jetpack Compose que muestra una pantalla de bienestar con una lista de tareas y un contador.
+
+## Características
+
+- Lista de tareas obtenida a través de un `WellnessViewModel`
+- Funciones para modificar el estado de las tareas, como marcarlas como completadas o eliminarlas
+- Pantalla de bienestar que muestra la lista de tareas utilizando un `WellnessTaskList` componible
+- Cada tarea se muestra utilizando un `WellnessTaskItem` componible
+- Contador mostrado utilizando un `StatefulCounter` componible
+
+## Capturas de pantalla
+
+<p align="center">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/74db9806-0ac1-4a75-bfdc-7405e7d52019" alt="Descripción de la imagen">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/ce6b78cf-91a8-45f0-ab8b-b7b79888368c" alt="Descripción de la imagen">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/4d6b8add-fe09-4c1b-ba66-5765272c8f2a" alt="Descripción de la imagen">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/7fb493f4-dca9-42a5-b714-8edb328a1d69" alt="Descripción de la imagen">
+</p>
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/BasicStateCodelab">ir a BasicStateCodelab</a></h2>
+
+
+## Uso
+
+La clase `MainActivity` es la actividad principal de la aplicación y establece el contenido de la actividad utilizando el tema `BasicStateCodelabTheme` y mostrando la pantalla de bienestar utilizando el componible `WellnessScreen`.
+
+## Contribuir
+
+Las contribuciones son bienvenidas. Por favor, siéntete libre de enviar un pull request o abrir un issue.
+
