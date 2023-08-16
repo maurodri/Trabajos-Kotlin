@@ -16,6 +16,7 @@ Este proyecto es una aplicación de Android escrita en Kotlin que muestra una co
   <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/499b7824-c9d9-49ef-b1e5-94f15f2fae7c" alt="Descripción de la imagen">
 
 </p>
+
 # Conversación en Kotlin
 
 Este proyecto es una aplicación de Android escrita en Kotlin que muestra una conversación utilizando Compose.
@@ -28,8 +29,11 @@ Este proyecto es una aplicación de Android escrita en Kotlin que muestra una co
 - Utiliza el tema `Kotlin1Theme` para aplicar estilos a los componentes.
 
 ## Capturas de pantalla
+<p align="center">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/d4d8cc69-3ad9-41c5-9f07-91395fcc61e3" alt="Descripción de la imagen">
 
-Pon aquí una imagen de la aplicación en ejecución.
+</p>
+
 
 ## Cómo ejecutar
 
