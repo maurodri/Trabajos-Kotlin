@@ -162,3 +162,52 @@ La clase `MainActivity` es la actividad principal de la aplicación y establece 
 
 Las contribuciones son bienvenidas. Por favor, siéntete libre de enviar un pull request o abrir un issue.
 
+# MySoothe(BasicLayoutsCodelab)
+
+MySoothe es una aplicación de bienestar que ayuda a los usuarios a relajarse y cuidar de su salud mental y física.
+
+## Características
+
+- **Barra de búsqueda**: Los usuarios pueden buscar contenido específico dentro de la aplicación.
+- **Alinear tu cuerpo**: Esta sección muestra diferentes opciones para ayudar a los usuarios a alinear su cuerpo, como inversiones, yoga rápida, estiramientos, tabata, HIIT y yoga prenatal.
+- **Colecciones favoritas**: Esta sección muestra diferentes colecciones favoritas para ayudar a los usuarios a relajarse, como mantras cortos, meditaciones en la naturaleza, estrés y ansiedad, auto-masaje, abrumado y relajación nocturna.
+- **Navegación inferior**: Los usuarios pueden navegar entre las pantallas "Inicio" y "Perfil" utilizando la navegación inferior.
+
+## Capturas de pantalla
+<p align="center">
+  <img src="https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/1ff6d48a-52d3-4041-95e9-46a824696c61" alt="Descripción de la imagen">
+
+
+</p>
+
+## Instalación
+
+Para instalar la aplicación MySoothe en su dispositivo, siga estos pasos:
+
+1. Descargue el archivo APK de la aplicación desde el enlace proporcionado.
+2. Abra el archivo APK en su dispositivo y siga las instrucciones para instalar la aplicación.
+3. Una vez instalada, abra la aplicación MySoothe y comience a explorar sus características.
+
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/BasicLayoutsCodelab">ir a BasicLayoutsCodelab</a></h2>
+
+
+
+## Contribución
+
+Si desea contribuir al desarrollo de la aplicación MySoothe, puede hacerlo de las siguientes maneras:
+
+- Informe de errores o problemas que encuentre al usar la aplicación.
+- Sugiera nuevas características o mejoras para la aplicación.
+- Contribuya con código para implementar nuevas características o corregir errores.
+
+Para contribuir con código, siga estos pasos:
+
+1. Haga un fork del repositorio de la aplicación MySoothe en GitHub.
+2. Clone el repositorio en su máquina local y realice los cambios necesarios.
+3. Cree un pull request para enviar sus cambios al repositorio principal.
+
+## Licencia
+
+La aplicación MySoothe está licenciada bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
