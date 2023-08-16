@@ -396,7 +396,7 @@ Para instalar la aplicación, siga estos pasos:
 3. Siga las instrucciones en pantalla para instalar la aplicación.
 
 ## Texto del enlace
-<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/dashboard_2">ir a Tienda sena</a></h2>
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/edicion/Dashboard_V2">ir a Tienda sena v2</a></h2>
 
 
 ## Uso
