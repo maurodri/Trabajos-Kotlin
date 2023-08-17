@@ -420,3 +420,33 @@ Si desea contribuir al desarrollo de esta aplicación, puede hacerlo de las sigu
 
 Esta aplicación está licenciada bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
 
+# Calculadora en Android-view
+
+Esta es una aplicación de calculadora para dispositivos Android escrita en Kotlin.
+
+## Características
+
+- Permite al usuario ingresar números y operadores matemáticos para realizar cálculos básicos.
+- Muestra los resultados de los cálculos en la pantalla.
+- Incluye botones para borrar y retroceder.
+
+## Capturas de pantalla de nevedades
+
+<p align="center">
+  
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/44395701-ad78-4b41-b6b3-a0febfa5f136)
+
+  
+</p>
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/Calculadora_view">ir a calculadora-view</a></h2>
+
+
+## Uso
+
+Para usar la aplicación, simplemente abra la aplicación y use los botones en pantalla para ingresar números y operadores matemáticos. Luego, presione el botón de igual para ver el resultado del cálculo.
+
+## Contribuir
+
+Si desea contribuir a este proyecto, no dude en hacer un fork y enviar un pull request con sus cambios.
