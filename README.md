@@ -430,7 +430,7 @@ Esta es una aplicación de calculadora para dispositivos Android escrita en Kotl
 - Muestra los resultados de los cálculos en la pantalla.
 - Incluye botones para borrar y retroceder.
 
-## Capturas de pantalla de nevedades
+## Capturas de pantalla
 
 <p align="center">
   
@@ -450,3 +450,39 @@ Para usar la aplicación, simplemente abra la aplicación y use los botones en p
 ## Contribuir
 
 Si desea contribuir a este proyecto, no dude en hacer un fork y enviar un pull request con sus cambios.
+
+# Aplicación de Inicio de login sena
+
+Esta aplicación es una aplicación para Android escrita en Kotlin y utiliza Jetpack Compose para crear una pantalla de inicio de sesión. La aplicación permite a los usuarios iniciar sesión en una cuenta existente o crear una nueva cuenta.
+
+## Características
+
+- **Pantalla de Inicio de Sesión**: La pantalla de inicio de sesión permite a los usuarios ingresar su correo electrónico y contraseña para iniciar sesión en una cuenta existente.
+- **Pantalla de Crear Cuenta**: La pantalla de crear cuenta permite a los usuarios ingresar su correo electrónico y contraseña para crear una nueva cuenta.
+- **Pantalla de Bienvenida**: La aplicación también incluye una pantalla de bienvenida que se muestra cuando se inicia la aplicación.
+- **Splash**: La pantalla muestra un inicio de la app en tendencia al sena con animacion de rotacion.
+ 
+
+## Capturas de pantalla
+
+<p align="center">
+  
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/8707c51a-85eb-4e64-a750-f26d862f0305)
+
+
+  
+</p>
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/Proyecto_login">ir a Login</a></h2>
+
+## Funciones Componibles
+
+La aplicación utiliza varias funciones componibles para crear la interfaz de usuario, incluyendo:
+- `LoginScreen`: Esta función crea la pantalla principal de inicio de sesión y permite a los usuarios cambiar entre las pantallas de inicio de sesión y crear cuenta.
+- `UserForm`: Esta función crea el formulario para ingresar el correo electrónico y la contraseña, e incluye lógica de validación.
+- `SubmitButton`: Esta función crea el botón de enviar para el formulario.
+- `PasswordInput`: Esta función crea el campo de entrada para ingresar una contraseña, e incluye una opción para mostrar u ocultar la contraseña.
+- `PasswordVisibleIcon`: Esta función crea el icono para mostrar u ocultar la contraseña.
+- `EmailInput`: Esta función crea el campo de entrada para ingresar una dirección de correo electrónico.
+- `InputField`: Esta función crea un campo de entrada genérico que se puede utilizar para diferentes tipos de datos.
