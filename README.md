@@ -355,3 +355,68 @@ Si desea contribuir al desarrollo de esta aplicación, puede hacerlo de las sigu
 ## Licencia
 
 Esta aplicación está licenciada bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
+
+
+# Tienda CBA SENA v2
+
+Esta es una aplicación de Android escrita en Kotlin que utiliza Compose para crear una interfaz de usuario. La aplicación es una tienda en línea para el Centro Biotecnológico Agropecuario del SENA en Colombia.
+
+## Características
+- Splash.
+- login.
+- Varias páginas que muestran información sobre diferentes productos, como flores, frutas, verduras, huevos y productos lácteos.
+- Una página de inicio con los productos e informacion inicial.
+- Una página de ubicación que muestra un mapa con marcadores para diferentes ubicaciones.
+- pagina de contenidos como frutas flores etc.
+- carrito de compras
+
+## Capturas de pantalla de nevedades
+
+<p align="center">
+  
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/1d9080f1-8bb3-4b83-b989-eef1ca316542)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/0c701359-1fb6-4747-98bf-83fddc2520af)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/6730eb19-0098-41d2-b8af-f489fbeb38bf)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/17b133df-b6f9-4902-84a2-0e7a8df455a0)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/d4d622bb-b307-4cff-89c6-4c6bff016e98)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/d2476c85-62ed-45e4-aa45-0862690573ca)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/fa8af23b-d3ef-4cf7-992b-061297e910ba)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/191e5f85-4e05-4f7a-88ee-a0e9130628c6)
+![image](https://github.com/maurodri/Trabajos-Kotlin/assets/110676905/b073e58e-a32f-411a-b9f7-f3bf94b2014b)
+
+  
+</p>
+
+## Instalación
+
+Para instalar la aplicación, siga estos pasos:
+
+1. Descargue el archivo APK de la aplicación desde el enlace proporcionado.
+2. Abra el archivo APK en su dispositivo Android.
+3. Siga las instrucciones en pantalla para instalar la aplicación.
+
+## Texto del enlace
+<h2><a href="https://github.com/maurodri/Trabajos-Kotlin/tree/main/edicion/Dashboard_V2">ir a Tienda sena v2</a></h2>
+
+
+## Uso
+
+Para usar la aplicación, siga estos pasos:
+
+1. Abra la aplicación en su dispositivo Android.
+2. Navegue por las diferentes páginas utilizando el menú lateral (drawer) o la barra inferior.
+3. Seleccione los productos que desee y agréguelos a su carrito de compras.
+4. Complete el proceso de pago para realizar su compra.
+
+## Contribución
+
+Si desea contribuir al desarrollo de esta aplicación, puede hacerlo de las siguientes maneras:
+
+- Informar errores o problemas a través del sistema de seguimiento de problemas.
+- Proponer nuevas características o mejoras a través del sistema de seguimiento de problemas.
+- Contribuir con código a través de solicitudes de extracción (pull requests).
+
+## Licencia
+
+Esta aplicación está licenciada bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
+
